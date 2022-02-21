@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paloma
-- 👀 I’m interested in web developer.
-- 🌱 I’m currently learning JavaScript, html5, css
+- 👀 I’m excited to learning about web developer, programming and technology in general.
+- 🌱 I’m currently learning JavaScript, HTML5, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/palomaguimar%C3%A3esdelima/ or guimaraesdelima#6072 at Discord.
 
